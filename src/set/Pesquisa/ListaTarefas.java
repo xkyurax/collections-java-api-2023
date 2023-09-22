@@ -1,8 +1,5 @@
-package Set.Pesquisa;
+package set.Pesquisa;
 
-import list.OperacoesBasicas.Tarefa;
-
-import java.sql.SQLOutput;
 import java.util.HashSet;
 import java.util.Set;
 

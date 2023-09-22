@@ -1,4 +1,4 @@
-package Set.OperacoesBasicas;
+package set.OperacoesBasicas;
 
 public class Palavra {
 
